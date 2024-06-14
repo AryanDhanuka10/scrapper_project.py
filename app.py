@@ -74,7 +74,7 @@ def index():
                 reviews.append(mydict)
             logging.info("log my final result {}".format(reviews))
             # connection establishment with mongodb
-            client =pymongo.MongoClient("mongodb+srv://AryanD:<2444666668888888>@atlascluster.wcwbuc2.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster")
+            client =pymongo.MongoClient("mongodb+srv://User:<2444666668888888>@atlascluster.wcwbuc2.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster")
             db = client['scrapper_project']
             collection = db['scrapper_pro']
             collection.insert_many(reviews)
