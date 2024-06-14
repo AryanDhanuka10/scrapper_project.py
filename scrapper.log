@@ -1,0 +1,157 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:03:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:03:37] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:03:37] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:03:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:19] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:24] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:32] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:35] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:04:43] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:05:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:05:01] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:05:01] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:05:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:05:08] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:06:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:06:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:06:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:06:30] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:09:24] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:09:35] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:11:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:11:52] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:11:52] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:11:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:11:56] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 00:12:02] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 16:59:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 16:59:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 16:59:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 16:59:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 16:59:59] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:00:27] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:00:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:00:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:00:33] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:06:05] "[33mGET /reviews HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:06:16] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:06:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:06:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:06:21] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:07:19] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:09:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:09:46] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:09:46] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:09:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:09:55] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:09:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:09:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:09:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:09:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:09:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:09:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:09:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:09:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:09:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2024 17:10:03] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
